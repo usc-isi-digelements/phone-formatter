@@ -10,7 +10,7 @@
   ],
   "main": "phone-formatter.html",
   "license": "http://polymer.github.io/LICENSE.txt",
-  "homepage": "https://github.com/DigElements/phone-formatter/",
+  "homepage": "https://github.com/usc-isi-digelements/phone-formatter/",
   "ignore": [
     "/.*",
     "/test/"
